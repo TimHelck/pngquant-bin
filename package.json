@@ -50,7 +50,7 @@
 		"bin-build": "^3.0.0",
 		"bin-wrapper": "^4.0.1",
 		"execa": "^4.0.0",
-		"logalot": "^2.0.0"
+		"logalot": "https://github.com/TimHelck/logalot"
 	},
 	"devDependencies": {
 		"ava": "^3.8.0",
